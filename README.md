@@ -64,44 +64,44 @@ ROC AUC Score: 68.905%.
 MODEL INTERPRETATION: While the final model’s overall accuracy score was 84%, the recall rate was 95%. This tells us that of individuals who will not receive the vaccine, the model will accurately predict 95% of them. This is good news for us because, for this business question, we are mostly concerned with identifying unvaccinated individuals. It won’t hurt to market to an individual who will indeed get the vaccine. We would rather err on the side of identifying a larger volume of unvaccinated individuals. Let’s take a sneak peak at what this machine learning model tells us.
 
 **4. Model Predictions**
+ 
+Using the model, we generated predictions. The predictions revealed the following trends in the data. Note that these visualizations are from the Power BI Dashboard .
 
-<img width="323" alt="272709073-21aa5d4e-3a09-4f7e-8ca1-a61d443f6ff5" src="https://github.com/user-attachments/assets/ce5faa0c-1d9d-4ee5-bcee-d13683eb4558" />
+Income: 
 
+<img width="285" alt="272707547-00fd7cea-3e8d-4143-8cb8-038ce3566cee" src="https://github.com/user-attachments/assets/0f67b567-1bfd-4ee1-a696-acf267c7cbb8" />
 
-<img width="419" alt="272707722-1a335dc9-63bd-4355-9648-c702b71a496a" src="https://github.com/user-attachments/assets/6927d053-4b73-470a-ad0f-adf24fe48a2f" />
+Income: 
 
-
-<img width="449" alt="272709659-c4a4e9ef-926a-4da3-966d-4217bb39c6b3" src="https://github.com/user-attachments/assets/dd30831b-3e0e-4af2-b422-5c2ee1155197" />
-
-
-<img width="285" alt="272707547-00fd7cea-3e8d-4143-8cb8-038ce3566cee" src="https://github.com/user-attachments/assets/7738d3c6-d80c-4358-bda2-d7c7c5db93e3" />
-
-
-<img width="273" alt="272710757-f850472d-4e26-41b8-bf99-6ed11165c1d3" src="https://github.com/user-attachments/assets/56873e98-ef78-4130-beab-f5b3f215bd54" />
+<img width="285" alt="272707547-00fd7cea-3e8d-4143-8cb8-038ce3566cee-1" src="https://github.com/user-attachments/assets/a88726a4-469e-4f93-aed5-311833b6cca4" />
 
 
-<img width="790" alt="272712991-9fbdf7cc-7c0e-4dbd-8354-5957c0e6c912" src="https://github.com/user-attachments/assets/df143577-629f-4f9d-9a55-1bb6470d6718" />
+Sex and Age:
+
+<img width="449" alt="272709659-c4a4e9ef-926a-4da3-966d-4217bb39c6b3" src="https://github.com/user-attachments/assets/4c35fe7a-ee30-4e8c-b5b3-a8bca7313a44" />
 
 
+Employment Status:
+
+<img width="273" alt="272710757-f850472d-4e26-41b8-bf99-6ed11165c1d3" src="https://github.com/user-attachments/assets/3e0dfc1d-5c32-426a-a1fc-2e0aa954fe8a" />
+
+Race: 
+
+<img width="790" alt="272712991-9fbdf7cc-7c0e-4dbd-8354-5957c0e6c912" src="https://github.com/user-attachments/assets/a731a9cb-27c0-4fe1-9ca2-5dee61750b47" />
 
 
+Doctor Recommendation:
+
+<img width="323" alt="272709073-21aa5d4e-3a09-4f7e-8ca1-a61d443f6ff5" src="https://github.com/user-attachments/assets/7fa9591d-9523-4510-a3b4-230cae7ca3b0" />
 
 
+Education: 
 
+<img width="419" alt="272707722-1a335dc9-63bd-4355-9648-c702b71a496a" src="https://github.com/user-attachments/assets/29ffa1c8-7edd-42c0-b107-caee020c73e3" />
 
+Rent / Home Home
 
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="771" alt="272712807-fb9564ac-6128-4b6c-a8ee-e0ab87e37764" src="https://github.com/user-attachments/assets/f2b50a9d-841b-46e3-8982-0fedd65146da" />
 
 
 
