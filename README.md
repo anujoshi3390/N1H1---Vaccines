@@ -1,6 +1,7 @@
 **1. Introduction**
 
 DESCRIPTION: Beginning in the spring of 2009, the H1N1 influenza virus, commonly referred to as "swine flu," swept across the globe. In fact, at my own high school, we had the first case of swine flu in the entire state of Texas and were shut down for over a month. It is estimated that in the first year, swine flu was responsible for 363,000 deaths worldwide.
+
 OBJECTIVE: The objective of this project is to identify individuals who will not receive a swine flu vaccine. Predicting individuals who will not receive the vaccine will help to inform the CDC’s marketing strategies. To do this, I have analyzed over 26,000 data points collected via phone call through the National 2009 H1N1 Flu Survey. This survey was administered by the National Center for Health Statistics in collaboration with the CDC.
 DEFINING KEY TERMS: Throughout this notebook, when the term “unvaccinated” is used, it refers specifically to the annual swine flu vaccinestill recommended today by the CDC.
 METHODOLOGY: Logistic Regression
