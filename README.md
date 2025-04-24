@@ -70,10 +70,6 @@ Using the model, we generated predictions. The predictions revealed the followin
 
 Income: 
 
-<img width="285" alt="272707547-00fd7cea-3e8d-4143-8cb8-038ce3566cee" src="https://github.com/user-attachments/assets/0f67b567-1bfd-4ee1-a696-acf267c7cbb8" />
-
-Income: 
-
 <img width="285" alt="272707547-00fd7cea-3e8d-4143-8cb8-038ce3566cee-1" src="https://github.com/user-attachments/assets/a88726a4-469e-4f93-aed5-311833b6cca4" />
 
 
